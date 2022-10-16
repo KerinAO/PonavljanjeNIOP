@@ -1,0 +1,7 @@
+C:\Users\Ramseeys\source\repos\Ponavljanje2\Ponavljanje2\bin\Debug\Ponavljanje2.exe.config
+C:\Users\Ramseeys\source\repos\Ponavljanje2\Ponavljanje2\bin\Debug\Ponavljanje2.exe
+C:\Users\Ramseeys\source\repos\Ponavljanje2\Ponavljanje2\bin\Debug\Ponavljanje2.pdb
+C:\Users\Ramseeys\source\repos\Ponavljanje2\Ponavljanje2\obj\Debug\Ponavljanje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramseeys\source\repos\Ponavljanje2\Ponavljanje2\obj\Debug\Ponavljanje2.csproj.CoreCompileInputs.cache
+C:\Users\Ramseeys\source\repos\Ponavljanje2\Ponavljanje2\obj\Debug\Ponavljanje2.exe
+C:\Users\Ramseeys\source\repos\Ponavljanje2\Ponavljanje2\obj\Debug\Ponavljanje2.pdb
